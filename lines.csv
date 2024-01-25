@@ -1,0 +1,5 @@
+name,bus0,bus1,s_nom,x,s_nom_extendable,length
+0,50Hertz,Tennet,"3,000",1,TRUE,1000
+1,Amprion,Tennet,"3,000",1,TRUE,1000
+2,Tennet,TransnetBW,"3,000",1,TRUE,1000
+3,TransnetBW,Amprion,"3,000",1,TRUE,1000
