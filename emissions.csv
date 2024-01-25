@@ -1,7 +1,7 @@
 carrier,co2_emissions
-coal,0.35
-gas,0.2
+coal,0.354
+gas,0.202
 solar,0
 wind,0
-biomass,
-Hydro,
+biomass,0
+Hydro,0
