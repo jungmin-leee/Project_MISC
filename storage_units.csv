@@ -1,5 +1,0 @@
-name,carrier,bus,p_nom,p_nom_A,p_nom_B,p_nom_C
-50_Pumped storage,Hydro,50Hertz,"2,793","2,419","2,419","2,419"
-A_Pumped storage,Hydro,Amprion,"1,829",1583.904442,1583.904442,1583.904442
-TBW_Pumped storage,Hydro,TransnetBW,0,0,0,0
-Ten_Pumped storage,Hydro,Tennet,"8,773",7597.372154,7597.372154,7597.372154
